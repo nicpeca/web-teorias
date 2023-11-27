@@ -1,0 +1,51 @@
+<br>
+<h3>
+TEORÍA PSICOSEXUAL DE SIGMUND FREUD
+</h3>
+<p>
+Sigmund Freud, nació el 6 de mayo de 1856 en Moravia. Fue un gran psicólogo conocido como el padre del psicoanálisis.
+</p>
+<p>
+En 1905 publicó la teoría psicosexual, la cual fue considerada revolucionaria porque propuso que el desarrollo humano está influenciado por impulsos sexuales desde la infancia y son estos impulsos los que determinan el comportamiento y la personalidad de las personas. Fue motivo de críticas en su época debido a que desafió las creencias y normas sociales tradicionales sobre la sexualidad y el desarrollo humano.
+</p>
+<p>
+El principio básico de esta teoría radica en que en el inconsciente del niño se encuentran los pensamientos referidos al deseo de tener relaciones sexuales con sus progenitores. Estos pensamientos alojados en el inconsciente, por lo tanto, inaccesibles para la conciencia del sujeto, comienzan a generarse en la niñez y durante varias etapas del desarrollo hasta que finalmente son erradicados por un desarrollo sexual normal.
+</p>
+<p>
+A diferencia de Vygotsky, Freud ve el desarrollo humano como un proceso interno, determinado por 5 etapas: oral, anal, fálica, latente y genital.
+</p>
+<p>
+Durante cada una de estas etapas nuestra energía sexual o líbido está fijada en un área concreta del cuerpo, de donde reciben su nombre las fases. Estas áreas van cobrando importancia a medida que la persona se desarrolla, ya sea como fuentes de placer potencial, frustración o ambas.
+</p>
+<p>
+Freud les otorgaba especial importancia a estas áreas porque creía que la vida se basaba en 2 factores: la tensión y el placer. Ambos están relacionados con el líbido, siendo la tensión la acumulación de la energía sexual y el placer su liberación.
+</p>
+<h4>
+Etapas del desarrollo psicosexual
+</h4>
+<ol>
+  <li><b>Etapa oral:</b> ocurre entre el momento del nacimiento y el año y medio de edad. El niño se relaciona con el mundo principalmente a través de la boca, por lo que el bebé recibe gran placer de actividades como chupar cosas y comer. La estimulación oral es también la principal manera en la que el niño crea vínculos con sus cuidadores, en concreto se establece vínculo con la madre cuando ésta le da el pecho.
+    <p>
+    El principal conflicto en esta etapa es precisamente la liberación en cierta medida de la dependencia de los cuidadores. El niño debe empezar a emprender su camino hacia la autosuficiencia; de lo contrario, su vida adulta podría tener problemas como agresividad, dependencia o adicciones a la comida.</p>
+  </li>
+  <li><b>Etapa anal:</b> se produce entre el año y medio y los tres años, durante esta la atención del niño se centra en el control de los esfínteres. La adquisición de la capacidad de ir al baño se convierte en el primer gran logro del niño, que se acerca de esta manera aún más a la autonomía personal.
+    <p>
+      Según Freud, la resolución del conflicto en esta etapa es especialmente delicada, y depende de la manera en la que los padres le enseñen al niño a ir al baño; si los cuidadores refuerzan al niño cada vez que consigue usar el baño de manera adecuada, la persona crecerá sintiéndose competente y productiva. En el caso de padres que castigan al niño cuando no consigue ir solo al baño, la persona podría convertirse en alguien rígido, incapaz de improvisar.
+    </p>
+  </li>
+  <li><b>Etapa fálica:</b> va desde los tres a 6 años aproximadamente, esta etapa se centra en los genitales, siendo el momento en que la persona descubre las diferentes anatomías entre hombres y mujeres. Aquí es donde se produce el mayor conflicto psicológico del desarrollo: el complejo de Edipo en los hombres y el complejo de Electra en las mujeres, según Freud los cambios producidos en esta etapa están estrechamente relacionados con la sexualidad de las personas y sus roles de género.
+  </li>
+  <li><b>Etapa latente:</b> entre los seis años y la pubertad, la energía sexual del niño entra en un estado de latencia, siendo suprimida por el superyó (la parte de la mente que se encarga de las normas sociales). Durante este tiempo la energía reprimida se utiliza en otras tareas como el desarrollo de las habilidades sociales.
+  </li>
+  <li><b>Etapa genital:</b> durante la pubertad los deseos de la persona vuelven a aparecer, esta vez de forma más desarrollada, en esta etapa (que abarca desde la adolescencia hasta la muerte) el deseo se centra en los genitales y en mantener relaciones sexuales con las personas que le resulten atractivas.
+  </li>
+</ol>
+<p>
+A medida que el niño se desarrolla van apareciendo una serie de conflictos en su mente que debe superar para avanzar a la siguiente fase con éxito. Estos conflictos están relacionados con la lucha entre los tres componentes de la mente según Freud, el ello, el yo y el superyó.
+</p>
+<p>
+El ello es la fuerza fundamental que mueve el comportamiento de los niños, se trata de la mente inconsciente, compuesta por todos los deseos, instintos o pulsaciones que cada persona tiene. Los otros dos componentes se desarrollan a la par de las 5 fases.
+</p>
+<p>
+En conclusión, en cada etapa se presenta un conflicto psicológico que debe ser resuelto para que el niño tenga un avance en su desarrollo humano; y en cuanto más difícil sea resolver el conflicto, más afectará a la personalidad del individuo en su vida adulta.
+</p>

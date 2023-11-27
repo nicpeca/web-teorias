@@ -1,0 +1,45 @@
+<br>
+<h3>
+ENFOQUE DE LA TEORÍA DE LA NEUROCIENCIA COGNITIVA
+</h3>
+<p>
+La neurociencia cognitiva es una fascinante disciplina que se adentra en el estudio de uno de los órganos más enigmáticos y complejos del cuerpo humano: el cerebro. Esta rama de la neurociencia se enfoca en comprender cómo el cerebro humano procesa la información, toma decisiones, almacena recuerdos y, en última instancia, da forma a nuestra cognición y comportamiento. A través de una combinación de métodos de investigación que incluyen la neuro-imagen, la neuropsicología y la neurofisiología, la neurociencia cognitiva se ha convertido en una herramienta invaluable para descifrar los misterios de la mente humana.
+</p>
+<p>
+La Neurociencia Cognitiva surgió como disciplina científica con entidad propia en los años 80, impulsada por el desarrollo de las modernas técnicas de neuro-imagen, que han permitido visualizar el cerebro humano en vivo, tanto a nivel estructural cómo, muy especialmente, a nivel funcional. Tal desarrollo ha posibilitado el estudio de la actividad cerebral asociada a diferentes funciones psicológicas complejas en sujetos humanos, hasta entonces vedada al científico. Con ello se ha logrado un avance sin precedentes en nuestro conocimiento de la organización funcional del cerebro humano, que ha abierto nuevas perspectivas de investigación, así como importantes aplicaciones en la práctica clínica.
+</p>
+<p>
+La teoría de la neurociencia cognitiva aborda la comprensión de la mente y la cognición humana desde múltiples dimensiones interrelacionadas. Estas dimensiones ayudan a desglosar y analizar aspectos específicos de cómo el cerebro y la cognición están relacionados. A continuación, se mencionan las principales dimensiones de la teoría de la neurociencia cognitiva:
+</p>
+<ul>
+  <li><strong>Neurobiología:</strong> Esta dimensión se enfoca en la biología del cerebro y el sistema nervioso. Examina la estructura y función de las diferentes regiones cerebrales, así como la actividad neuronal subyacente a los procesos cognitivos. La neurobiología investiga cómo las neuronas se comunican entre sí y cómo las redes neuronales procesan la información.
+  </li>
+  <li><strong>Procesos Cognitivos:</strong> Se refiere a la dimensión que se centra en los procesos mentales y cognitivos, como la percepción, la memoria, el pensamiento, la atención y la toma de decisiones. Examina cómo el cerebro realiza estas operaciones y cómo influyen en la experiencia y el comportamiento humanos.
+  </li>
+  <li><strong>Comportamiento y Experiencia:</strong> Esta dimensión se relaciona con la observación y el análisis del comportamiento humano y la experiencia subjetiva. Se busca comprender cómo los procesos cognitivos se traducen en acciones, decisiones y respuestas emocionales en la vida cotidiana.
+  </li>
+  <li><strong>Desarrollo a lo largo de la Vida:</strong> La dimensión del desarrollo aborda cómo la cognición y el cerebro evolucionan a lo largo de la vida, desde la infancia hasta la vejez. Examina cómo los cambios en el cerebro y la experiencia influyen en el desarrollo cognitivo y cómo se producen adaptaciones en diferentes etapas.
+  </li>
+  <li><strong>Diversidad Individual:</strong> Esta dimensión reconoce la variabilidad individual en la cognición y cómo factores como la genética, la cultura, el ambiente y las experiencias personales influyen en la forma en que las personas procesan la información y experimentan el mundo.
+  </li>
+  <li><strong>Interacción con el Entorno:</strong> Se refiere a cómo la cognición y el cerebro interactúan con el entorno físico y social. Examina cómo las personas adquieren conocimientos, aprenden habilidades y se adaptan a sus contextos a través de la interacción y la experiencia.
+  </li>
+  <li><strong>Aplicaciones Prácticas:</strong> Esta dimensión se enfoca en la aplicación de los hallazgos de la neurociencia cognitiva en diversos campos, como la medicina, la educación, la psicología clínica, la tecnología y la toma de decisiones en la vida cotidiana. Se busca utilizar el conocimiento científico para mejorar la calidad de vida y la comprensión de la mente humana.
+  </li>
+</ul>
+<p>
+<strong>INVESTIGACIONES:</strong>
+</p>
+<ul>
+  <li> En 2015, Andrew Wickens publicó “La historia del cerebro”, donde explica los medios por los cuales el hombre ha tratado de comprender y estudiar el cerebro. Esto viene desde antiguas civilizaciones, incluyendo a muchos filósofos e investigadores a partir de este libro se profundizó sobre el contexto de la neurociencia internacional.
+  </li>
+  <li> Benabid, neurocirujano, inició y desarrolló la técnica de estimulación cerebral profunda para disminuir el temblor de los pacientes que padecen la enfermedad de Parkinson. El premio Lasker, uno de los premios científicos más respetados en el mundo, otorgado por la Fundación Albert and Mary Lasker en Nueva York, corona una carrera dedicada a los pacientes que padecen la enfermedad de Parkinson. Este reconocimiento internacional se encuentra a nivel de los campos de excelencia de la investigación francesa: La psicología y la neuropsicología cognitiva, la biofísica y la biología celular de la sinapsis.
+  </li>
+  <li> Mindfulness es un término que ha pasado a formar parte del vocabulario en nuestra sociedad, y su práctica se ha instalado en el contexto educativo, terapéutico, clínico y como herramienta de bienestar o crecimiento personal. En este artículo hacemos un repaso de los trabajos de investigación más relevantes en neurociencia cognitiva clasificado principalmente en 3: 
+     <ul>
+        <li>Cambios diferenciales en la actividad de la red por defecto debidas a la práctica del mindfulness.</li>
+        <li>Cambios funcionales o estructurales de la red atencional.</li>
+        <li>Cambios funcionales o estructurales de la red frontolímbica y la amígdala, relacionados con la regulación emocional.</li>
+    </ul>
+  </li>
+</ul>
