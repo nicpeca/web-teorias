@@ -1,0 +1,345 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400&family=Open+Sans:wght@300&family=Roboto:wght@100&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400&family=Open+Sans:wght@300;400&family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400&family=Libre+Baskerville&family=Open+Sans:wght@300;400&family=Roboto:wght@100&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Open Sans";
+    box-sizing: border-box;
+}
+
+main{
+    display: flex;
+}
+
+.bio {
+    width: 80%;
+    /* background-color: red; */
+    transition: background-color 0.3s ease; /* Agrega una transición para suavizar el cambio de color */
+}
+
+
+.timeline{
+    position: relative;
+    max-width: 20%;
+    margin: 10px 0;
+    padding-bottom: 150px;
+    user-select: none;
+}
+
+.container{
+    margin-left:10px;
+    padding: 10px 50px;
+    position: relative;
+    width: 140%;
+    /* background-color: rgba(0, 0,0, 0); */
+    left: 0;
+}
+
+.text-box{
+    padding: 20px 30px;
+    background-color: rgba(245, 245, 245, 0.7);
+    position: relative;
+    border-radius: 6px;
+    font-size: 14px;
+
+    animation: reveal linear both;
+    animation-timeline: view();
+    animation-range: entry 10% cover 20%;
+    border: 1px solid rgba(0, 0, 0, 0.3);
+ 
+    transition: transform 0.3s ease, background-color 0.3s ease, box-shadow 0.3s ease; /* Agregamos una transición para suavizar el efecto */
+}
+
+.container img{
+    position: absolute;
+    width: 30px;
+    border-radius: 50%;
+    left : 5px;
+    top: 32px;
+    z-index: 10; 
+}
+
+.timeline::after{
+    content: '';
+    position: absolute;
+    width: 6px;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    top: 0;
+    left: 30px;
+    margin-left: -3px;
+    z-index: -1;
+    user-select: none;
+}
+
+.text-box h2{
+    font-weight: 600;
+}
+
+.container-arrow{
+    user-select: none;
+    height: 0;
+    width: 0;
+    position: absolute;
+    top: 22px;
+    z-index: 1;
+    border-top: 15px solid transparent;
+    border-bottom: 15px solid transparent;
+    border-right: 15px solid whitesmoke;
+    left: -15px;
+} 
+
+
+
+@keyframes reveal {
+    
+    from{
+        opacity: 0;
+        translate: 10px 30px;
+    }
+
+    to{
+        opacity: 1;
+        translate: 0 0;
+    }
+
+}
+
+.container .text-box h2,
+.container .text-box p,
+.container .text-box span {
+    user-select: none;
+    /* Otros estilos para los elementos dentro de la caja de texto */
+}
+
+.text-box:hover{
+    transform: translateX(10px);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Sombreado al hacer hover */
+    background-color: whitesmoke;
+}
+ 
+ /* header */
+ 
+header{
+    display: flex;
+    justify-content: space-between;
+    min-height: 40px;
+    background-color: rgb(228, 225, 225);
+    align-items: center;
+    padding:5px;
+}
+
+.logo-text{
+    font-size: 1.2rem;
+    font-weight: 600;
+    padding-bottom: 4px;
+    color: rgb(79, 78, 78);
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+}
+
+.logo img{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    height: 40px;
+    margin-right: 40px;
+}
+
+a{
+    text-decoration: none;
+    color: black ;
+}
+
+nav a{
+    font-weight: 300;
+    padding-right: 10px;
+}
+
+nav a:hover{
+    color: whitesmoke;
+}
+
+@media (max-width:700px){
+
+    header{
+        flex-direction: column;
+
+    }
+
+    nav{
+        padding: 10px 0;
+    }
+
+}
+
+
+@media screen and (max-width: 700px) {
+    
+    .text-box{
+        font-size: 7px;
+        min-width: 120px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .container{
+        margin: 0;
+        padding: 5px 20px;
+    }
+
+    .container img{
+        width: 20px;
+        left : 2px;
+    }
+
+    .timeline::after{
+        content: '';
+        position: absolute;
+        width: 4px;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.3);
+        top: 0;
+        left: 12px;
+        margin-left: -3px;
+    
+    }
+
+    .bio-text p, li{
+        font-size: 0.7rem;
+    }
+    .bio-text h3{
+        font-size: 1rem;
+    }
+
+
+}
+
+/* BIO*/
+
+.bio{
+
+    display: flex;
+    flex-direction: column;
+    overflow-x: hidden; 
+    overflow-y: auto;
+    z-index: -2;
+}
+
+
+.bio.unload{
+    opacity: 0;
+    transition: opacity 0.3s ease-in;
+}
+
+.bio.loaded {
+    opacity: 1; /* Cuando se carga, establece la opacidad a 1 */
+    filter: blur(0); /* Desenfoque a 0 */
+    transition: opacity 0.5s ease-in, filter 0.5s ease-in;
+}
+
+.bio-text{
+    width: 100%;
+    height: 100%;
+
+    padding-left: 10%;
+    padding-right: 20px;
+    text-wrap:stable;
+    white-space: pre-line;
+
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+
+    font-family: "Libre Baskerville";
+
+    margin-bottom: 100px;
+}
+
+.bio-text, .bio-image{
+    position: relative;
+    display: flex;
+}
+
+.bio-image{
+    
+    display: flex;
+    position: relative;
+    align-items: center;
+    z-index: -1;
+    justify-content: center;
+    width: 100%;
+    min-height: 400px;
+    overflow: hidden;
+}
+
+.bio-image img{
+
+    position: absolute;
+    min-height: 100vh;
+    object-fit: cover;
+    z-index: -2;
+    opacity: 70%;
+}
+
+
+.parallax h1{
+    user-select: none;
+    padding: 20px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    opacity: 100%;
+    width: 100%;
+    font-size: 3rem;
+    font-weight: 600;
+    backdrop-filter: blur(0.2rem);
+    background: #fff9f9af;
+    color: rgb(79, 78, 78);
+
+    font-family: "Libre Baskerville";
+    border-radius: 10px;
+}
+
+.parallax h1 p{
+    
+    padding-top: 10px;
+    font-style: italic;
+    font-size: 1rem;
+    font-weight: 600;
+    font-family: "Libre Baskerville";
+}
+
+
+/* Añadido estilo para ajustar el contenedor del parallax */
+#parallaxContainer {
+    transition: transform 0 linear; /* Añadido para suavizar el cambio en la posición de la imagen */
+    transform: translate3d(0, 0, 0); /* Añadido para mejorar el rendimiento */
+}
+
+
+/*FOOTER*/
+footer {
+    font-family: 'Open Sans', Consolas,  -apple-system, BlinkMacSystemFont, sans-serif;
+    font-size: 14px;
+    width: 100%;
+    background-color: rgb(228, 225, 225); /* Color de fondo del footer */
+    color: #746565; /* Color del texto en el footer */
+    padding: 10px; /* Espacio interno en el footer */
+    text-align: center; /* Centrar el texto en el footer */
+}
+
+ul,ol{
+    list-style-position: inside; /* Coloca los puntos dentro del margen */
+    padding-left: 0; /* Elimina el espacio de margen predeterminado */
+}
+
+ul li ul li{
+    margin-left: 1rem;
+}
+
